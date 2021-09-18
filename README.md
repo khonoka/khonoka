@@ -17,4 +17,4 @@
 ## 📧 Get in touch
 [![Telegram](https://img.shields.io/badge/%40KagiKeyKHonoka-0088cc?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/KagiKeyKHonoka)
 [![Matrix](https://img.shields.io/badge/%40KagiKeyKHonoka-eeeeee?style=flat-square&logo=matrix&logoColor=000000)](https://matrix.to/#/@khonoka:chat.rosehip.moe)
-[![Mastodon](https://img.shields.io/badge/%40KagiKeyKHonoka-0088cc?style=flat-square&logo=mastodon&logoColor=ffffff)](https://matrix.to/#/@khonoka:chat.rosehip.moe)
+[![Mastodon](https://img.shields.io/badge/%40KagiKeyKHonoka-0088cc?style=flat-square&logo=mastodon&logoColor=ffffff)](https://nya.lemonade.moe/@khonoka)
