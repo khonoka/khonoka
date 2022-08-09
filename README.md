@@ -15,6 +15,6 @@
 [![Android 11](https://img.shields.io/badge/Android%2011-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-11/)
 
 ## 📧 Get in touch
-[![Telegram](https://img.shields.io/badge/%40KagiKeyKHonoka-0088cc?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/KagiKeyKHonoka)
-[![Matrix](https://img.shields.io/badge/%40KagiKeyKHonoka-eeeeee?style=flat-square&logo=matrix&logoColor=000000)](https://matrix.to/#/@khonoka:matrix.org)
-[![Mastodon](https://img.shields.io/badge/%40KagiKeyKHonoka-0088cc?style=flat-square&logo=mastodon&logoColor=ffffff)](https://nya.lemonade.moe/@khonoka)
+[![Telegram](https://img.shields.io/badge/%40FlyingFantastica-0088cc?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/FlyingFantastica)
+[![Matrix](https://img.shields.io/badge/%40khonoka-eeeeee?style=flat-square&logo=matrix&logoColor=000000)](https://matrix.to/#/@khonoka:matrix.org)
+[![Mastodon](https://img.shields.io/badge/%40khonoka-0088cc?style=flat-square&logo=mastodon&logoColor=ffffff)](https://nya.lemonade.moe/@khonoka)
